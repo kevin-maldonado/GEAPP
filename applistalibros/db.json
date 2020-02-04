@@ -1,0 +1,53 @@
+{
+  "libros": 
+  [
+      {
+          "id": 1,
+          "nombre": " Fernando Pardo Ruiz",
+          "autor": "Fernando Pardo Ruiz",
+          "año": 2020
+      },
+      {
+          "id": 2,
+          "nombre": "La mujer del otro",
+          "autor": "José Navarro Ballesteros",
+          "año": 2020
+      },
+      {
+          "id": 3,
+          "nombre": "Divina Comedia",
+          "autor": " Dante Alighieri ",
+          "año": 1265
+      },
+      {
+          "id": 4,
+          "nombre": "Orgullo y prejuicio",
+          "autor": "Jane Austen",
+          "año": 1813
+      },
+      {
+        "id": 5,
+        "nombre": "El adversario",
+        "autor": "Emmanuel Carreré",
+        "año": 2000
+    },
+    {
+        "id": 6,
+        "nombre": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "año": 1605
+    },
+    {
+        "id": 7,
+        "nombre": "Ilíada",
+        "autor": "Homero",
+        "año": 1000
+    },
+    {
+        "id": 8,
+        "nombre": "Almas muertas",
+        "autor": "Nikolai Gogol",
+        "año": 1842
+    }
+  ]
+}
